@@ -19,4 +19,6 @@ Projeto básico desenvolvido com HTML, CSS e JavaScript. Permite realizar opera�
 - JavaScript
 
 ## Demonstração
-<img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/ca7e5595-83eb-43ec-935d-4d368c45f76a" />
+<img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/53891568-d675-4713-9b1d-b30f1dccdc04" />
+
+
